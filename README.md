@@ -3,7 +3,7 @@
 > ROS2, STM32, Raspberry Pi, Hailo-8 기반의 **지능형 임베디드 시스템**을 직접 설계하고 개발합니다.  
 > 스마트짐 💪 프로젝트를 통해 하드웨어와 소프트웨어의 융합을 연구하고 있습니다.
 
- 
+--- 
 ### 💪 **Smart Gym (운동 자세 분석 시스템)**
 > EMG + IMU 센서 기반 운동 분석 및 AI 피드백 시스템  
 
@@ -13,6 +13,19 @@
 - ⚡ 실시간 BLE 통신으로 웨어러블 센서 데이터 수집  
 
 📂 Repository: [smart_gym](https://github.com/JeongMinLim-0121/smart_gym)
+
+---
+
+### 🍹 **Vending Machine IoT System (자판기 통합관리)**
+> Raspberry Pi · STM32 · Web Server · DB · Bluetooth 기반
+> 실시간 재고·매출·장애 감지 & 원격 제어가 가능한 IoT 자판기 시스템입니다.
+> 
+- 📱 터치 UI로 상품 선택 및 사용자 인터페이스 제공
+- 🔵 BLE → STM32로 모터 제어 & 판매 요청 전달
+- 📏 초음파 센싱으로 배출 성공 여부 자동 판단
+- 🗄️ Web Server + DB로 재고·매출·장애를 실시간 업데이트 및 통합 관리
+
+📂 Repository: [all_vending_machine_unite](https://github.com/JeongMinLim-0121/all_vending_machine_unite)
 
 ---
 
