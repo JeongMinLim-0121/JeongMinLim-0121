@@ -38,12 +38,6 @@
 
 📂 Repository: [Secure Entry System](https://github.com/JeongMinLim-0121/Secure_entry_system)
 
----
-###  이전 회사 경력# 👋 안녕하세요. 임정민입니다!
-
-> ROS2, STM32, Raspberry Pi, Hailo-8 기반의 **지능형 임베디드 시스템**을 직접 설계하고 개발합니다.  
-> 다양한 프로젝트를 통해 하드웨어와 소프트웨어의 융합을 연구하고 있습니다.
-
 --- 
 ### 🥈 **Smart Gym (운동 자세 분석 시스템)**
 > 포즈 인식 + 시퀀스 모델 + EMG 기반 피로도 분석까지 포함한 AI 운동 분석 시스템 
@@ -82,8 +76,8 @@
 ---
 
 
-###  이전 회사 경력기술서 **
-> (주) 이에스티소프트  | 3년 2개월 |  개발 및 유지보수 
+### 회사 경력기술서 
+> (주) 이에스티소프트  | 3년 2개월 |  개발 및 유지보수 | 퇴사
 
  <img width="895" height="512" alt="image" src="https://github.com/user-attachments/assets/c6eb917f-1378-44fc-911b-9e815fa7cc0d" />
 
