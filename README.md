@@ -69,7 +69,7 @@
 - 입력 → 인증 → 출력 흐름의 MCU 중심 출입 제어 시스템 구현  
 - 인터럽트 기반 입력 처리 및 상태 제어  
 - LED·부저를 활용한 인증 결과 시각/음향 피드백  
-- 유지보수·확장성을 고려한 펌웨어 구조 설계  
+- 전자 회로도
 
 📂 Repository: [Secure Entry System](https://github.com/JeongMinLim-0121/Secure_entry_system)
 
