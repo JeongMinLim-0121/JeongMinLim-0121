@@ -4,7 +4,7 @@
 ⚙️ 시스템 제어와 하드웨어 연동에 흥미를 느껴, 현재는 임베디드 시스템 개발로 방향을 전환했습니다.
 
  ---
-## 🧠 주요 프로젝트
+## 🛠️ 주요 프로젝트
 
 - ♿ **[병원 자율주행 휠체어 시스템 (ROS2)🎖️](https://github.com/JeongMinLim-0121/Project-Hospital-Autonomous-Wheelchair)** </br>
   ROS2 기반 SLAM·Nav2 자율주행 및 센서 융합 시뮬레이션 구현</br>
