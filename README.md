@@ -26,7 +26,6 @@
 ## 🛠 기술 스택
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=flat-square&logo=linux)
 ![MCU Firmware](https://img.shields.io/badge/MCU%20Firmware-555555?style=flat-square)
 ![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=flat-square&logo=arm)
