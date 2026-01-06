@@ -15,7 +15,7 @@
 - 🧾 **[Raspberry Pi 기반 스마트 자판기 제어 시스템](https://github.com/JeongMinLim-0121/all_vending_machine_unite)**  
   Raspberry Pi 기반 GPIO·UART·I2C 제어와 DB 연동을 통한 스마트 자판기 통합 제어 시스템
 
-- 🔐 **[STM32 기반 RFID 출입 인증 보안 시스템](https://github.com/JeongMinLim-0121/STM32_RFID_Access_Control)**  
+- 🔐 **[STM32 기반 RFID 출입 인증 보안 시스템](https://github.com/JeongMinLim-0121/Secure_entry_system)**  
   STM32 + SPI RFID + I2C LCD 연동, 인터럽트·타이머 기반 출입 인증 제어 시스템
 
 ---
