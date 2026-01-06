@@ -6,11 +6,11 @@
  ---
 ## 🧠 주요 프로젝트
 
-- ♿ **[병원 자율주행 휠체어 시스템 (ROS2)](https://github.com/JeongMinLim-0121/Project-Hospital-Autonomous-Wheelchair)**  
+- ♿ **[병원 자율주행 휠체어 시스템 (ROS2)🎖️](https://github.com/JeongMinLim-0121/Project-Hospital-Autonomous-Wheelchair)** </br>
   ROS2 기반 SLAM·Nav2 자율주행 및 센서 융합 시뮬레이션 구현</br>
   **Tech Stack**: ROS2, C++, SLAM, Nav2, LiDAR, IMU, Odometry, Gazebo
   
-- 🧍 **[자세 분석 시스템 (Pose Estimation)](https://github.com/JeongMinLim-0121/smart_gym)**  
+- 🧍 **[자세 분석 시스템 (Pose Estimation)🥈](https://github.com/JeongMinLim-0121/smart_gym)**  
   Pose Estimation 기반 사용자 자세 실시간 분석 및 동작 패턴 판단 시스템</br>
   **Tech Stack**: Python, OpenCV, Pose Estimation, NumPy</br>
 - 🧾 **[Raspberry Pi 기반 스마트 자판기 제어 시스템](https://github.com/JeongMinLim-0121/all_vending_machine_unite)**  
