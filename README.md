@@ -7,7 +7,7 @@
 ## 🧩 주요 프로젝트
 
 - 🔐 **[Linux 센서 디바이스 드라이버](https://github.com/JeongMinLim-0121/linux-sensor-device-drivers)** </br>
-  Linux 커널 모듈 기반 센서·디스플레이·RTC 디바이스 드라이버 구현</br>
+  Linux 커널 모듈로 센서·디스플레이·RTC 디바이스 드라이버 구현</br>
   **Tech Stack**: Linux, C, Kernel Module, Device Driver, GPIO, I2C
   
 - ♿ **[병원 자율주행 휠체어 시스템 (ROS2)🎖️](https://github.com/JeongMinLim-0121/Project-Hospital-Autonomous-Wheelchair)** </br>
