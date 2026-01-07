@@ -6,6 +6,10 @@
  ---
 ## 🧩 주요 프로젝트
 
+- 🔐 **[Linux 센서 디바이스 드라이버](https://github.com/JeongMinLim-0121/linux-sensor-device-drivers)** </br>
+  Linux 커널 모듈 기반 센서·디스플레이·RTC 디바이스 드라이버 구현</br>
+  **Tech Stack**: Linux, C, Kernel Module, Device Driver, GPIO, I2C
+  
 - ♿ **[병원 자율주행 휠체어 시스템 (ROS2)🎖️](https://github.com/JeongMinLim-0121/Project-Hospital-Autonomous-Wheelchair)** </br>
   ROS2 기반 SLAM·Nav2 자율주행 및 센서 융합 시뮬레이션 구현</br>
   **Tech Stack**: ROS2, C++, SLAM, Nav2, LiDAR, IMU, Odometry, Gazebo
@@ -13,9 +17,11 @@
 - 🧍 **[자세 분석 시스템 (Pose Estimation)🥈](https://github.com/JeongMinLim-0121/smart_gym)**  
   Pose Estimation 기반 사용자 자세 실시간 분석 및 동작 패턴 판단 시스템</br>
   **Tech Stack**: Python, OpenCV, Pose Estimation, NumPy</br>
+  
 - 🧾 **[Raspberry Pi 기반 스마트 자판기 제어 시스템](https://github.com/JeongMinLim-0121/all_vending_machine_unite)**  
   Raspberry Pi 기반 GPIO·UART·I2C 제어와 DB 연동을 통한 스마트 자판기 통합 제어 시스템</br>
   **Tech Stack**: Raspberry Pi, Linux, Python/C/C++, GPIO, UART, I2C, MySQL
+  
 - 🔐 **[STM32 기반 RFID 출입 인증 보안 시스템](https://github.com/JeongMinLim-0121/Secure_entry_system)**  
   STM32 + SPI RFID + I2C LCD 연동, 인터럽트·타이머 기반 출입 인증 제어 시스템</br>
   **Tech Stack**: STM32, C, SPI, I2C, GPIO, Interrupt, Timer
