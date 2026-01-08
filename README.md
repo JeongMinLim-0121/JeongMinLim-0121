@@ -10,7 +10,7 @@
   Linux 커널 모듈로 센서·디스플레이·RTC 디바이스 드라이버 구현</br>
   **Tech Stack**: Linux, C, Kernel Module, Device Driver, GPIO, I2C
   
-- ♿ **[병원 자율주행 휠체어 시스템 (ROS2)🎖️](https://github.com/JeongMinLim-0121/Project-Hospital-Autonomous-Wheelchair)** </br>
+- ♿ **[병원 자율주행 휠체어 시스템 (ROS2)🥉](https://github.com/JeongMinLim-0121/Project-Hospital-Autonomous-Wheelchair)** </br>
   ROS2 기반 SLAM·Nav2 자율주행 및 센서 융합 시뮬레이션 구현</br>
   **Tech Stack**: ROS2, C++, SLAM, Nav2, LiDAR, IMU, Odometry, Gazebo
   
